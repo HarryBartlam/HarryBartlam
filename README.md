@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harry</h1>
 <h3 align="center">A passionate Android developer from the UK, making my first app in 2009</h3>
 
-- 🔭 I’m currently working at [Sainsbury's Groceries Android App](https://play.google.com/store/apps/details?id=com.sainsburys.gol)
+- 🔭 I’m currently working at [Dojo](https://dojo.tech/)
 - 📫 You can see my contacts on my site **http://bartlam.co.uk/**
 
 <h4 align="left">What i work with:</h4>
